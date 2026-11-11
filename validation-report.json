@@ -1,0 +1,6 @@
+{
+  "checks": 1096,
+  "passed": true,
+  "errors": [],
+  "scope": "Local links, Markdown, Python parser/analysis behavior, PPT package counts. No board compilation, hardware or live WikiDocs verification."
+}
